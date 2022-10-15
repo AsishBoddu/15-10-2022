@@ -1,0 +1,46 @@
+body{
+	background-image: url(https://img.freepik.com/free-vector/modern-indian-tricolor-theme-watercolor-style-background-vector_1055-11976.jpg?w=2000);
+	background-repeat:no-repeat;
+	background-size: cover;
+	padding: 20px;
+
+}
+.h1{
+	font-family: sans-serif;
+	letter-spacing: 2;
+	background-color: blue;
+
+
+}
+.img{
+	border-radius: 8px;
+}
+.p{
+	text-decoration-color: white;
+	font-size: 80px;
+	text-transform: capitalize;
+	word-spacing: 3px;
+	font-weight: bold;
+}
+.apj{
+	font-size: 50px;
+	text-align: center;
+	
+	word-spacing: 3px;
+	text-decoration-color: white;
+}
+.dp{
+	font-size: 30px;
+	text-decoration: line-through;
+	text-decoration-color: whitesmoke;
+	text-shadow: 3px 1px blue;
+
+}
+h3{
+	font size: 100px;
+	text-align: center;
+
+}
+.ar{
+	color: green;
+}
